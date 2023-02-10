@@ -8,7 +8,10 @@
       width: auto;
   }
 
-    
+   #intro {
+    font-family: 'Exo 2', sans-serif;
+    color:  rgb(97, 3, 83);
+   } 
   #navbar-example2{
   
       background-color: rgb(244, 208, 208);
